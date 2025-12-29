@@ -1,0 +1,46 @@
+# Python virtual environment
+.venv/
+venv/
+
+# Environment variables
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# IDE / Editor
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Streamlit
+.streamlit/
+
+# Logs
+*.log
+
+# Test cache
+.pytest_cache/
+
+# Data files (large or sensitive)
+data/*.json
+
+# Documentation and office files
+*.docx
+docs/
+
+# Build outputs
+build/
+dist/
+*.egg-info/
+
+# Jupyter Notebooks
+*.ipynb
+
+# Miscellaneous
+travel agent flow.docx
